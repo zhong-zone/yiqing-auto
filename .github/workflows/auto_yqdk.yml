@@ -8,7 +8,7 @@ on:
     branches: [ master ]
   workflow_dispatch:
   schedule:
-    - cron: '13 22 * * *'
+    - cron: '32 16 * * *'
     # 每天早上6:10
 
 jobs:
